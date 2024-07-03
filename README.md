@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 #### Collaborative Git Repositories
 - https://github.com/MaassLab/Signature
-- https://github.com/MaassLab/Signature-AWS
+- https://github.com/MaassLab/Signature_AWS
